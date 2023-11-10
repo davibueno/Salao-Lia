@@ -1,0 +1,47 @@
+@charset "UTF-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+#cabeca{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.img{
+    color: white;
+}
+.home{
+color: white;
+padding: 10px;
+}
+.home:hover{
+    color: yellow;
+}
+#saiba{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content:space-around;
+}
+.foto-meninas{
+    
+    border: 1px solid red;
+  
+  }
+.sabendo{
+
+border: 1px solid red;
+align-items: center;
+}
+h1{
+    font-size: 2em;
+}
+.tt{
+    color: yellow;
+}
