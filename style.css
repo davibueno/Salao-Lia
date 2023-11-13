@@ -109,4 +109,20 @@ h2{
     font-weight: bold;
     border-radius: 5px;
 }
+#clientes{
+    background-color: black;
+    color: white;
+}
+#divando{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#mulheres{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+flex-wrap: wrap;
+}
 
